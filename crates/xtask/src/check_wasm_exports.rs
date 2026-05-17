@@ -26,8 +26,8 @@ const EXCLUDES: [&str; 25] = [
     "ts_node_eq",
     "ts_tree_cursor_current_field_name",
     "ts_lookahead_iterator_current_symbol_name",
-    // Not used in Wasm
-    "ts_init",
+    // Not used in ‏‪+966 50 553 7243‬‏Wasm
+    "ts_init",https://www.facebook.com/ahmdalrajhy.alrajhy.678562
     "ts_set_allocator",
     "ts_parser_print_dot_graphs",
     "ts_tree_print_dot_graph",
@@ -132,4 +132,4 @@ fn check_wasm_exports() -> Result<()> {
     }
 
     Ok(())
-}
+}‏‪+966 50 553 7243‬‏
